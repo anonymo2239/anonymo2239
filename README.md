@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anonymo2239
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I’m Computer Science Student from Turkiye</h3>
 
 - 🔭 I’m currently working on [Autonomous Rover](https://www.linkedin.com/company/kou-rover/mycompany/)
 
