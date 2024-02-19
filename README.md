@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @anonymo2239
 <h3 align="center">I’m Computer Science Student from Turkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymo2239" alt="anonymo2239" /></a> </p>
-
 - 🔭 I’m currently working on [Autonomous Rover](https://www.linkedin.com/company/kou-rover/mycompany/)
 
 - 👯 I’m collaborating on [KOU Rover Team](https://www.linkedin.com/company/kou-rover/mycompany/)
@@ -24,5 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymo2239&show_icons=true&locale=en&layout=compact" alt="anonymo2239" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymo2239&show_icons=true&locale=en" alt="anonymo2239" /></p>
-I’m Computer Science Student from Turkiye
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymo2239&" alt="anonymo2239" /></p>
