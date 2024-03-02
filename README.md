@@ -1,6 +1,6 @@
 <h3 align="center">I’m Computer Science Student from Turkiye</h3>
 
-- 🔭 I’m currently working on [Autonomous Rover](https://www.linkedin.com/company/kou-rover/mycompany/)
+- 🔭 I’m currently working on [Autonomous Rover](https://www.linkedin.com/company/kou-rover/mycompany/) and Data Science
 
 - 👯 I’m collaborating on [KOU Rover Team](https://www.linkedin.com/company/kou-rover/mycompany/)
 
