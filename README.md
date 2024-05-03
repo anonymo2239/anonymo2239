@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A Computer Science Student from Türkiye</h3>
 
 - 🔭 I’m currently working on [Autonomous Rover](https://www.linkedin.com/company/kou-rover/mycompany/)
 
