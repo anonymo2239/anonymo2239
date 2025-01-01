@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adem Alperen Arda</h1>
 <h3 align="center">A Computer Science Student from Türkiye</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymo2239&label=Profile%20views&color=0e75b6&style=flat" alt="anonymo2239" /> </p>
+
 - 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
