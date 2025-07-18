@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://www.ademalperenarda.com/](https://www.ademalperenarda.com/)
+- 🌱 I’m currently learning **Large Language Models and Learning Algorithms**
 
 - 📫 How to reach me **alperen.arda.adem22@gmail.com**
 
